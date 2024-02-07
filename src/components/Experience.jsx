@@ -14,7 +14,7 @@ function Experience() {
       zoom={0.7}
       polar={[-0.5, Math.PI / 4]}
     >
-      <Stage preset={"rembrandt"} intensity={0.6} contactShadow={false}>
+      <Stage environment={"city"} intensity={0.6} contactShadow={false}>
         <Suspense fallback={null}>
           <Chair />
         </Suspense>
