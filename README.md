@@ -9,8 +9,7 @@
 - drei 라이브러리
 
 ## 데모
-https://github.com/urbanscratcher/study-r3f/assets/17016494/0317d5fb-13fe-4a3b-b948-ba4a54d35f59
-
+![r3f](https://github.com/urbanscratcher/study-r3f/assets/17016494/e4d56557-e157-408d-95a5-88d05b6c3d19)
 
 
 ## 링크
